@@ -1,5 +1,5 @@
 <h2 align='center'>
-  <img src="https://artie.live/images/logo.png" />
+  <img src="https://artie.live/images/logo.png" height='100px' width='100px' />
   <br>
   Artie AI
 </h2>
