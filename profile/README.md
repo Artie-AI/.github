@@ -4,7 +4,7 @@
   Artie AI
 </h2>
 <p>
-  The Deep Learning AI of the Future made in to a responsive and easy-to use Chat Bot for Discord.
+  Artificial Intelligence for the Future of Discord Chat Bots
 </p>
 
 <hr>
